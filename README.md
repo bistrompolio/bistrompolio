@@ -1,7 +1,7 @@
 - 👋 Hello, fellow developers!, I’m Bistrompolio, a passionate newbie exploring the exciting world of coding and development.
 - 👀 I’m eager to learn and contribute to open source projects.
 - 🌱 Currently will try to code from scratch. Let's see if I succeed.
-
+- 🌱 Now I start
 
 
 <!---
